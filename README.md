@@ -1,7 +1,7 @@
 Compression and Archive Extensions
 ==================================
 
-[![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/Unknwon/cae)
+[![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/jdigger/cae)
 
 [中文文档](README_ZH.md)
 
@@ -15,7 +15,7 @@ Code Convention: based on [Go Code Convention](https://github.com/Unknwon/go-cod
 
 ### Implementations
 
-Package `zip`([Go Walker](http://gowalker.org/github.com/Unknwon/cae/zip)) and `tz`([Go Walker](http://gowalker.org/github.com/Unknwon/cae/tz)) both enable you to transparently read or write ZIP/TAR.GZ compressed archives and the files inside them.
+Package `zip`([Go Walker](http://gowalker.org/github.com/jdigger/cae/zip)) and `tz`([Go Walker](http://gowalker.org/github.com/jdigger/cae/tz)) both enable you to transparently read or write ZIP/TAR.GZ compressed archives and the files inside them.
 
 - Features:
 	- Add file or directory from everywhere to archive, no one-to-one limitation.

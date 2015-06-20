@@ -21,7 +21,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Unknwon/cae"
+	"github.com/jdigger/cae"
 	"github.com/Unknwon/com"
 	. "github.com/smartystreets/goconvey/convey"
 )
